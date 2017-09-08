@@ -1,0 +1,6 @@
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\bin\Debug\Długi.exe.config
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\bin\Debug\Długi.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\bin\Debug\Długi.pdb
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\obj\Debug\Długi.csprojResolveAssemblyReference.cache
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\obj\Debug\Długi.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Długi\Długi\obj\Debug\Długi.pdb
